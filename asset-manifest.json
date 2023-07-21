@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NarendranDev/Menu.git/static/css/main.98c9d117.css",
+    "main.js": "/NarendranDev/Menu.git/static/js/main.0dc9be0c.js",
+    "static/js/787.9b472795.chunk.js": "/NarendranDev/Menu.git/static/js/787.9b472795.chunk.js",
+    "index.html": "/NarendranDev/Menu.git/index.html",
+    "main.98c9d117.css.map": "/NarendranDev/Menu.git/static/css/main.98c9d117.css.map",
+    "main.0dc9be0c.js.map": "/NarendranDev/Menu.git/static/js/main.0dc9be0c.js.map",
+    "787.9b472795.chunk.js.map": "/NarendranDev/Menu.git/static/js/787.9b472795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c9d117.css",
+    "static/js/main.0dc9be0c.js"
+  ]
+}
