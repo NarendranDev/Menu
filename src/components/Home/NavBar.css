@@ -1,0 +1,81 @@
+.Navbar span{
+padding: 0 20px 0 20px ;
+color: white;
+font-weight: 700;
+}
+div{
+    padding-top: 5px;
+}
+div .right{
+    float: right;
+}
+.Navbar span:hover{
+    text-decoration: underline ;
+}
+
+@media only screen and (max-width: 320px) {
+    .Navbar span {
+        font-weight: 500;
+
+    }
+    
+      .Navbar  {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    div .right{
+        display: none;
+    }
+  }
+
+  @media only screen and (min-device-width: 321px)and  (max-device-width: 375px) {
+  
+    .Navbar span {
+        font-weight: 500;
+
+    }
+    
+      .Navbar  {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    div .right{
+        display: none;
+    }
+  }
+  @media only screen and (min-device-width: 376px)and  (max-device-width: 425px) {
+  
+    .Navbar span {
+        font-weight: 500;
+
+    }
+    
+      .Navbar  {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    div .right{
+        display: none;
+    }
+  }
+
+  @media only screen and (min-device-width: 326px)and  (max-device-width: 768px) {
+  
+    .Navbar span {
+        font-weight: 500;
+
+    }
+    
+      .Navbar  {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+  }
